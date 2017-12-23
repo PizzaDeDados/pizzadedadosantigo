@@ -10,7 +10,7 @@ layout: null
         <link>{{ site.url }}</link>
         <language>{{ site.lang }}</language>
         <itunes:author>{{ site.author.name }}</itunes:author>
-        <description>{{ site.description }}</description>
+        <description>{{ site.author.bio }}</description>
         <itunes:owner>
             <itunes:name>{{ site.author.email }} ({{ site.title }})</itunes:name>
             <itunes:email>{{ site.author.email }}</itunes:email>

@@ -3,13 +3,15 @@
 # Site settings:
 title: Pizza De Dados
 lang: pt-br
-
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
 permalink: /:title/
-exclude: ["README.md"] # files to exclude
-highlighter: rouge
+
+# Build settings
 markdown: kramdown
+highlighter: rouge
+paginate: 5
+paginate_path: "page:num"
+
+
 disqus: pizzadedados
 google_analytics: UA-106178084-2
 
@@ -38,8 +40,10 @@ sobre_path: sobre
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
 BASE_PATH: "http://jtemporal.com/pizzadedadosnew"
+image-url: "http://podcast.datascience.pizza/images/avatar.large.png"
 url: "http://podcast.datascience.pizza"
-
 
 plugins:
   - jekyll-paginate
+
+exclude: ["README.md"] # files to exclude
