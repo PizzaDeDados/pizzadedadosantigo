@@ -36,10 +36,10 @@ Ou baixe para escutar mais tarde:
 ## Pessoas nesse episódio
 
 <div class="row">
-  <div class="voz-img">
-    <img src="https://pbs.twimg.com/profile_images/917141735528189952/YL2gKqFJ_400x400.jpg">
+  <div class="pizzaiolo-img">
+    <img class="img-circle" src="https://pbs.twimg.com/profile_images/917141735528189952/YL2gKqFJ_400x400.jpg">
   </div>
-  <div class="voz">
+  <div>
     <h3>Leticia Portella</h3>
     <a href="https://twitter.com/leleportella">
       <button class="btn btn-twitter">Twitter</button>
@@ -47,10 +47,10 @@ Ou baixe para escutar mais tarde:
   </div>
 </div>
 <div class="row">
-  <div class="voz-img">
-    <img src="https://pbs.twimg.com/profile_images/927004212239765506/-uSPAJyo_400x400.jpg">
+  <div class="pizzaiolo-img">
+    <img class="img-circle" src="https://pbs.twimg.com/profile_images/927004212239765506/-uSPAJyo_400x400.jpg">
   </div>
-  <div class="voz">
+  <div>
     <h3>Jessica Temporal</h3>
     <a href="https://twitter.com/jesstemporal">
       <button class="btn btn-twitter">Twitter</button>
@@ -58,10 +58,10 @@ Ou baixe para escutar mais tarde:
   </div>
 </div>
 <div class="row">
-  <div class="voz-img">
-    <img src="https://pbs.twimg.com/profile_images/927578792419356672/Xs18O64r_400x400.jpg">
+  <div class="pizzaiolo-img">
+    <img class="img-circle" src="https://pbs.twimg.com/profile_images/927578792419356672/Xs18O64r_400x400.jpg">
   </div>
-  <div class="voz">
+  <div>
     <h3>Gustavo Coelho</h3>
     <a href="https://twitter.com/gusrabbit">
       <button class="btn btn-twitter">Twitter</button>
@@ -69,10 +69,10 @@ Ou baixe para escutar mais tarde:
   </div>
 </div>
 <div class="row">
-  <div class="voz-img">
-    <img src="https://pbs.twimg.com/profile_images/783681467650015232/qxJx4C6m_400x400.jpg">
+  <div class="pizzaiolo-img">
+    <img class="img-circle" src="https://pbs.twimg.com/profile_images/783681467650015232/qxJx4C6m_400x400.jpg">
   </div>
-  <div class="voz">
+  <div>
     <h3>Tarsis Azevedo</h3>
     <a href="https://twitter.com/tarsisazevedo">
       <button class="btn btn-twitter">Twitter</button>
