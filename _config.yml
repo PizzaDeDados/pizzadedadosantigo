@@ -37,7 +37,7 @@ sobre_path: sobre
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
-BASE_PATH:
+BASE_PATH: "http://jtemporal.com/pizzadedadosnew/"
 url: "http://podcast.datascience.pizza"
 
 
