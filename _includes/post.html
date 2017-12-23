@@ -47,8 +47,8 @@
     <div>
       <section class="share col-sm-6">
         <h4 class="section-title">Share Post</h4>
-        <a class="btn btn-default btn-sm twitter" href="http://twitter.com/share?text={{page.title | encode}}{% if site.author.twitter%}&via={{site.author.twitter}}{% endif %}"
-           onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+        <a class="btn btn-default btn-sm twitter"
+        href="https://twitter.com/share?url={{ site.BASE_PATH }}{{ page.url | url_encode}}&via={% if site.author.twitter%}{{site.author.twitter}}{% endif %}&text=Acabei%20de%20ouvir%20o%20{{page.title | url_encode}}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
           <i class="fa fa-twitter fa-lg"></i>
           Twitter
         </a>
