@@ -1,40 +1,45 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
+# Site settings:
+title: Pizza De Dados
+lang: pt-br
+
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
+permalink: /:title/
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+disqus: pizzadedados
+google_analytics: UA-106178084-2
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Pizza de Dados
 
-description: Stylish Jekyll Theme
+description: >
+    Pizza de Dados podcast, um podcast onde pessoas comuns discutem ciência de dados
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Leticia Portella, Jessica Temporal, Gustavo Coelho
+  email: pizzadedados@gmail.com
+  twitter: pizzadedados
+  bio: O podcast Brasileiro sobre Ciêcia de Dados
+  email_md5: 01ba6ff2d34a7ee2657ccc9b16014ed4
 
 rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
+assine_path: assine
+pizzaiolos_path: pizzaiolos
+sobre_path: sobre
 
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
 BASE_PATH:
+url: "http://podcast.datascience.pizza"
+
 
 plugins:
   - jekyll-paginate
