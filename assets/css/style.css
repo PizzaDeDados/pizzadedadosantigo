@@ -251,3 +251,12 @@ ul.dropdown-menu>li>a>i.fa {
 .row {
     margin: 0;
 }
+
+li>a {
+    color: #2C3E50;
+    text-decoration: underline;
+}
+
+li>a:hover {
+    color: #A7D3A6;
+}
