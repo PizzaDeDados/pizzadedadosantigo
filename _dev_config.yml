@@ -1,0 +1,45 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+# Site settings:
+title: Pizza De Dados
+lang: pt-br
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+permalink: /:title/
+exclude: ["README.md"] # files to exclude
+highlighter: rouge
+markdown: kramdown
+disqus: pizzadedados
+# google_analytics: UA-106178084-2
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Pizza de Dados
+
+description: >
+    Pizza de Dados podcast, um podcast onde pessoas comuns discutem ciência de dados
+author:
+  name: Leticia Portella, Jessica Temporal, Gustavo Coelho
+  email: pizzadedados@gmail.com
+  twitter: pizzadedados
+  bio: O podcast Brasileiro sobre Ciêcia de Dados
+  email_md5: 01ba6ff2d34a7ee2657ccc9b16014ed4
+
+rss_path: feed.xml
+assine_path: assine
+pizzaiolos_path: pizzaiolos
+sobre_path: sobre
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+url: "http://podcast.datascience.pizza"
+
+
+plugins:
+  - jekyll-paginate
