@@ -8,8 +8,8 @@ body{
 	position: fixed;
 	top: 0px;
 	padding-top: 10%;
-	background-color: #2c3e50;
-	color: #fff;
+	background-color: #93BDDB;
+	color: #333;
 }
 
 .sidebar-header {
@@ -23,7 +23,7 @@ body{
 
 .sidebar-header .title a{
 	text-decoration: none;
-	color: #fff;
+	color: #333;
 }
 
 a.nav-link {
@@ -189,3 +189,65 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
+.btn-mp3, .btn-twitter {
+    background-color: #98C1D9;
+    border-color: #90C1D9;
+}
+
+.btn-mp3:hover, .btn-twitter:hover {
+    color: #fff;
+    background-color: #549BB3;
+    border-color: #549BB3;
+}
+
+.btn-ogg, .btn-site {
+    background-color: #A7D3A6;
+    border-color: #A7D3A6;
+}
+
+.btn-ogg:hover, .btn-site:hover {
+    color: #fff;
+    background-color: #81AD80;
+    border-color: #81AD80;
+}
+
+.btn-github {
+    background-color: #F3DE8A;
+    border-color: #F3DE8A;
+}
+
+.btn-github:hover {
+    color: #fff;
+    background-color: #C9BA7D;
+    border-color: #C9BA7D;
+}
+
+.btn-assine {
+    background-color: #EB9486;
+    border-color: #EB9486;
+}
+
+.btn-assine:hover {
+    color: #fff;
+    background-color: #BA766B;
+    border-color: #BA766B;
+}
+
+.pizzaiolo-img {
+    width: 30%;
+    float: left;
+    padding: 1em;
+}
+
+.pizzaiolo-img>img {
+    max-width: 100%;
+}
+
+.pizzaiolo-description {
+    width: 70%;
+    float: right;
+}
+
+.row {
+    margin: 0;
+}
