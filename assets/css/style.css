@@ -59,14 +59,15 @@ article .share .twitter:hover {
 #contact-list li:hover .fa-linkedin {
     color: #1D87BD;
 }
-#contact-list li:hover .fa-envelope {
-    color: #E93E30;
-}
-#contact-list li:hover .fa-pinterest {
-    color: #CC2127;
-}
 #contact-list li:hover .fa-rss {
     color: #e74c3c;
+}
+#contact-list li:hover .fa-envelope,
+#contact-list li:hover .fa-pinterest,
+#contact-list li:hover .fa-user,
+#contact-list li:hover .fa-home,
+#contact-list li:hover .fa-book {
+    color: #CC2127;
 }
 article .share .facebook:hover {
     color: #43609C;
