@@ -260,3 +260,6 @@ li>a {
 li>a:hover {
     color: #A7D3A6;
 }
+.navbar-default .navbar-nav>li>a {
+    text-decoration: none;
+}
