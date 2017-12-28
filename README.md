@@ -1,6 +1,6 @@
-# [Pizza de dados](http://podcast.datascience.pizza/): o primeiro podcast Brasileiro sobre Ciência de Dados
+<img src="assets/media/signo.png" width="150">
 
-![logo](assets/media/signo.png =100x100)
+# [Pizza de dados](http://podcast.datascience.pizza/): o primeiro podcast Brasileiro sobre Ciência de Dados
 
 Necessário ter [ruby](https://www.ruby-lang.org/en/) instalado e [bundler](http://bundler.io/):
 
