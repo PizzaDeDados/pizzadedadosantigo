@@ -29,10 +29,10 @@ Voltando às origens, esta Pizza é Sabor da Casa é uma conversa informal entre
 
 Ou baixe para escutar mais tarde:
 <div class="download">
-  <a href="https://archive.org/download/episodio_002_pizza_de_aprendizado/episodio_002_pizza_de_aprendizado.mp3">
+  <a href="https://archive.org/download/episodio_003_sabor_da_casa/episodio_003_sabor_da_casa.mp3">
     <button class="btn btn-mp3">baixar .mp3</button>
   </a>
-  <a href="https://archive.org/download/episodio_002_pizza_de_aprendizado/episodio_002_pizza_de_aprendizado.ogg">
+  <a href="https://archive.org/download/episodio_003_sabor_da_casa/episodio_003_sabor_da_casa.ogg">
     <button class="btn btn-ogg">baixar .ogg</button>
   </a>
 </div>
