@@ -104,6 +104,7 @@ Coisas que mencionamos durante esse episódio:
 - [Random forest](https://en.wikipedia.org/wiki/Random_forest)
 - [Desafio do Titanic](https://www.kaggle.com/c/titanic)
 - [Livro Predictive Analytics](https://www.amazon.com.br/Predictive-Analytics-Power-Predict-Click/dp/1118356853)
+- [Anedota do físico Feynman](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
 
 
 ## Pérolas?! Temos algumas
