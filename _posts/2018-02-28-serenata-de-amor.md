@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Episódio 005 - Serenata de Amor"
-mp3: "https://archive.org/download/episodio_005_serenata_de_amor/episodio_005_serenata_de_amor.mp3"
+mp3: "https://archive.org/download/episodio_005_serenata_de_amor_v2/episodio_005_serenata_de_amor_v2.mp3"
 description: "Tem pizza doce tamanho família aqui na casa também!"
-duration: "01:02:04"
+duration: "01:02:50"
 keywords: "ciência de dados, data dcience, pizza de dados, dados, data, data science pizza, python, ds, machine learning, bootcamp, ensino, aprendizado"
 comments: true
 ---
@@ -21,15 +21,15 @@ Tem pizza doce tamanho família aqui na casa também! Dessa vez nossos pizzaiolo
 ## Escute agora
 
 <div class="player-div">
-<iframe src="https://archive.org/embed/episodio_005_serenata_de_amor" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/episodio_005_serenata_de_amor_v2" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 </div>
 
 Ou baixe para escutar mais tarde:
 <div class="download">
-  <a href="https://archive.org/download/episodio_005_serenata_de_amor/episodio_005_serenata_de_amor.mp3">
+  <a href="https://archive.org/download/episodio_005_serenata_de_amor_v2/episodio_005_serenata_de_amor_v2.mp3">
     <button class="btn btn-mp3">baixar .mp3</button>
   </a>
-  <a href="https://archive.org/download/episodio_005_serenata_de_amor/episodio_005_serenata_de_amor.ogg">
+  <a href="https://archive.org/download/episodio_005_serenata_de_amor_v2/episodio_005_serenata_de_amor_v2.ogg">
     <button class="btn btn-ogg">baixar .ogg</button>
   </a>
 </div>
