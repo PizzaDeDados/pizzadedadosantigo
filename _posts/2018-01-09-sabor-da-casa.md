@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episódio 003 - Sabor da Casa"
+title: "Episódio 003: Sabor da Casa"
 mp3: "https://archive.org/download/episodio_003_sabor_da_casa/episodio_003_sabor_da_casa.mp3"
 description: "Voltando às origens, esta Pizza é Sabor da Casa é uma conversa informal entre os nossos três pizzaiolos."
 duration: "00:32:27"

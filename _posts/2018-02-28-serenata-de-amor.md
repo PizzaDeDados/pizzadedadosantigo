@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episódio 005 - Serenata de Amor"
+title: "Episódio 005: Serenata de Amor"
 mp3: "https://archive.org/download/episodio_005_serenata_de_amor_v2/episodio_005_serenata_de_amor_v2.mp3"
 description: "Tem pizza doce tamanho família aqui na casa também!"
 duration: "01:02:50"
