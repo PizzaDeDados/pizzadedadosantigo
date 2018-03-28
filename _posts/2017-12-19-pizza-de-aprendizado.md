@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episódio 002: Pizza de aprendizado"
-mp3: "https://archive.org/download/episodio_002_pizza_de_aprendizado/episodio_002_pizza_de_aprendizado.mp3"
+mp3: "http://archive.org/download/episodio_002_pizza_de_aprendizado/episodio_002_pizza_de_aprendizado.mp3"
 description: "Neste episódio, os nossos pizzaiolos recebem um pizzaiolo convidado para discutir sobre ensino e aprendizado de ciência de dados, as dificuldades de alunos e professores e outros ingredientes mais..."
 duration: "00:48:05"
 length: "47152789"
