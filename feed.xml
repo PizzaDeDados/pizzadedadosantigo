@@ -42,7 +42,7 @@ layout: null
           <itunes:author>{{ site.author.name }}</itunes:author>
           <itunes:explicit>NO</itunes:explicit>
           <itunes:block>no</itunes:block>
-          <enclosure url="{{ post.mp3 }}"/>
+          <enclosure url="{{ post.mp3 }}" type="audio/mpeg"/>
         </item>
         {% endfor %}
     </channel>
