@@ -1,0 +1,14 @@
+    <ul class="pager">
+      {% if page.previous %}
+      <li class="previous"><a href="{{ site.BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Anterior</a></li>
+      {% else %}
+      <li class="previous disabled"><a>&larr; Anterior</a></li>
+      {% endif %}
+      {% if page.next %}
+      <li class="next"><a href="{{ site.BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Próximo &rarr;</a></li>
+      {% else %}
+      <li class="next disabled"><a>Próximo &rarr;</a>
+      {% endif %}
+    </ul>
+
+    <hr>

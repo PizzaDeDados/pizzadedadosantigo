@@ -45,7 +45,8 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="{{ site.BASE_PATH }}/">
-        <img src="//www.gravatar.com/avatar/{{site.author.email_md5}}?s=35" class="img-circle" />
+        <!--img src="//www.gravatar.com/avatar/{{site.author.email_md5}}?s=35" class="img-circle" /-->
+        <img src="{{BASE_PATH }}/assets/media/signo.png" class="img-circle" /-->
         {{ site.title }}
       </a>
     </div>
@@ -89,7 +90,6 @@
       <p>
         &copy; {{ site.time | date: '%Y' }} {{ site.title }} com <a href="http://jekyllrb.com/">Jekyll</a>. Código fonte: <a href="https://github.com/jtemporal/pizzadedados">Pizza no GitHub</a> por Jessica Temporal, Letícia Portella e Gustavo Coelho.
       </p>
-            {% include color-bar.html %}
     </footer>
   </div>
 
