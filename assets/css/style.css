@@ -128,6 +128,12 @@ article img { max-width: 100%; }
     border-radius: 0;
 }
 
+@media only screen and (max-width: 768px) {
+    .navbar-brand .img-circle {
+        width: 23px;
+    }
+}
+
 h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
 article.home h1,
 article.home h2,
@@ -275,4 +281,45 @@ li>a:hover {
 }
 .navbar-default .navbar-nav>li>a {
     text-decoration: none;
+}
+
+.navbar {
+    background-color: #141c2b;
+}
+
+.navbar-default .navbar-brand {
+    text-align: center;
+    color: #f2cd80;
+    font-size: 23px;
+}
+
+.navbar-default .navbar-brand:hover  {
+    color: #f2cd80;
+}
+
+.navbar-default .navbar-brand:focus  {
+    color: #f2cd80;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #f2cd80;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #f2cd80;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #eeeeee;
+}
+
+@media only screen and (max-width: 768px) {
+    .pager li {
+        display: block;
+    }
+
+    .pager li a, .pager li span {
+        float: none;
+        width: 100%;
+    }
 }

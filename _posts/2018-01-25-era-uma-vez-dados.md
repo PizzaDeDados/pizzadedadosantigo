@@ -20,7 +20,7 @@ Todo mundo já fez ou viu um gráfico na vida, mas sabia que existe toda uma teo
 ## Escute agora
 
 <div class="player-div">
-<iframe src="https://archive.org/embed/episodio_004_era_uma_vez_dados" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/episodio_004_era_uma_vez_dados" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 </div>
 
 Ou baixe para escutar mais tarde:

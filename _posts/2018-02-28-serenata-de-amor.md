@@ -22,7 +22,7 @@ Tem pizza doce tamanho família aqui na casa também! Dessa vez nossos pizzaiolo
 ## Escute agora
 
 <div class="player-div">
-<iframe src="https://archive.org/embed/episodio_005_serenata_de_amor_v2" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/episodio_005_serenata_de_amor_v2" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 </div>
 
 Ou baixe para escutar mais tarde:

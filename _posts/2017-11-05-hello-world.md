@@ -21,7 +21,7 @@ O primeiro episódio do Pizza de Dados está no ar! Neste episódio, os 3 pizzai
 ## Escute agora
 
 <div class="player-div">
-<iframe src="https://archive.org/embed/Episodio001HelloWorld" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/Episodio001HelloWorld" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 </div>
 
 Ou baixe para escutar mais tarde:
