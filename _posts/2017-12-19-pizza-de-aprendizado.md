@@ -21,7 +21,7 @@ Neste episódio de final de ano 🎅 🎄 🎁  os nossos pizzaiolos recebem um 
 ## Escute agora
 
 <div class="player-div">
-<iframe src="https://archive.org/embed/episodio_002_pizza_de_aprendizado" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/episodio_002_pizza_de_aprendizado" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 </div>
 
 Ou baixe para escutar mais tarde:

@@ -25,7 +25,7 @@ Voltando às origens, esta Pizza é Sabor da Casa é uma conversa informal entre
 ## Escute agora
 
 <div class="player-div">
-<iframe src="https://archive.org/embed/episodio_003_sabor_da_casa" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/episodio_003_sabor_da_casa" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 </div>
 
 Ou baixe para escutar mais tarde:

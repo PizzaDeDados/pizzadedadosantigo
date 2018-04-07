@@ -12,7 +12,7 @@ $ bundle install
 
 Para servir localmente o site:
 ```console
-$ bundle exec jekyll serve --config _config_dev.yml
+$ bundle exec jekyll serve --config _dev_config.yml
 ```
 
 ## Tema do site:
