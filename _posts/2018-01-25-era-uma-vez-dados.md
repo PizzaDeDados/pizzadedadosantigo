@@ -37,7 +37,7 @@ Ou baixe para escutar mais tarde:
 
 <div class="row">
   <div class="pizzaiolo-img">
-    <img class="img-circle" src="https://pbs.twimg.com/profile_images/949336700895014912/1UVzY3Ms_400x400.jpg">
+    <img class="img-circle" src="{{ site.lele_photo }}">
   </div>
   <div>
     <h3>Leticia Portella</h3>
@@ -48,7 +48,7 @@ Ou baixe para escutar mais tarde:
 </div>
 <div class="row">
   <div class="pizzaiolo-img">
-    <img class="img-circle" src="https://pbs.twimg.com/profile_images/950517230038548480/3LLLh6G5_400x400.jpg">
+    <img class="img-circle" src="{{ site.jess_photo }}">
   </div>
   <div>
     <h3>Jessica Temporal</h3>
@@ -59,7 +59,7 @@ Ou baixe para escutar mais tarde:
 </div>
 <div class="row">
   <div class="pizzaiolo-img">
-    <img class="img-circle" src="https://pbs.twimg.com/profile_images/927578792419356672/Xs18O64r_400x400.jpg">
+    <img class="img-circle" src="{{ site.gust_photo }}">
   </div>
   <div>
     <h3>Gustavo Coelho</h3>

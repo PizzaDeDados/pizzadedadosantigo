@@ -38,6 +38,10 @@ sobre_path: sobre
 
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+# pizzaiolos photo
+lele_photo: "https://pbs.twimg.com/profile_images/986653022326607872/CgOvsUVr_400x400.jpg"
+jess_photo: "https://pbs.twimg.com/profile_images/950517230038548480/3LLLh6G5_400x400.jpg"
+gust_photo: "https://pbs.twimg.com/profile_images/927578792419356672/Xs18O64r_400x400.jpg"
 
 BASE_PATH:
 image-url: "http://podcast.datascience.pizza/images/avatar.large.png"
