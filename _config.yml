@@ -44,7 +44,7 @@ jess_photo: "https://pbs.twimg.com/profile_images/950517230038548480/3LLLh6G5_40
 gust_photo: "https://pbs.twimg.com/profile_images/927578792419356672/Xs18O64r_400x400.jpg"
 
 BASE_PATH: "http://pizzadedados.com"
-image-url: "http://pizzadedados.com/assets/media/avatar.large.png"
+image-url: "http://pizzadedados.com/assets/media/avatar.large.2.png"
 url: "http://pizzadedados.com"
 
 plugins:
