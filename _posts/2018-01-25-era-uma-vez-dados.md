@@ -20,7 +20,7 @@ Todo mundo já fez ou viu um gráfico na vida, mas sabia que existe toda uma teo
 ## Escute agora
 
 <div class="player-div">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SdSWQZw-8V8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/SdSWQZw-8V8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 Ou baixe para escutar mais tarde:

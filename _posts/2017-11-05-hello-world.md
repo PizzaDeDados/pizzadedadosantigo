@@ -21,7 +21,7 @@ O primeiro episódio do Pizza de Dados está no ar! Neste episódio, os 3 pizzai
 ## Escute agora
 
 <div class="player-div">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IahkKrAJyQY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/IahkKrAJyQY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Ou baixe para escutar mais tarde:
 <div class="download">
