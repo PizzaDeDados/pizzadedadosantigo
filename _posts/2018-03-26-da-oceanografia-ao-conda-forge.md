@@ -23,7 +23,7 @@ Vai uma pizza à beira-mar? Nesse episódio recebemos Filipe Fernandes, um ocean
 ## Escute agora
 
 <div class="player-div">
-<iframe src="https://archive.org/embed/episodio_006_da_oceanografia_ao_conda_forge" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2dc3P3Zf85E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 Ou baixe para escutar mais tarde:
