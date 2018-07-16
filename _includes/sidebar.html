@@ -61,6 +61,27 @@
       </a>
     </li>
   </ul>
+  <ul class="list-unstyled list-inline">
+    {% if site.author.facebook %}
+    <li>
+      <a class="btn btn-default btn-sm" href="https://fb.com/{{ site.author.facebook }}">
+        <i class="fa fa-facebook-square fa-lg"></i>
+      </a>
+    </li>
+    {% endif %}
+    {% if site.author.youtube %}
+    <li>
+      <a class="btn btn-default btn-sm" href="https://youtu.be/c/{{ site.author.youtube }}">
+        <i class="fa fa-youtube-play fa-lg"></i>
+      </a>
+    </li>
+    {% endif %}
+    <li>
+      <a class="btn btn-default btn-sm" href="https://apoia.se/pizzadedados">
+        <i class="fa fa-credit-card fa-md"></i>
+      </a>
+    </li>
+  </ul>
   <ul id="contact-list-secondary" class="list-unstyled list-inline">
     {% if site.author.pinterest %}
     <li>
