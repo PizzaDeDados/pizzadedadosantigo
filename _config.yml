@@ -51,5 +51,6 @@ url: "http://pizzadedados.com"
 
 plugins:
   - jekyll-paginate
+  - jekyll-redirect-from
 
 exclude: ["README.md"] # files to exclude
