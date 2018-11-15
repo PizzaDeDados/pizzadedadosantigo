@@ -1,5 +1,49 @@
-<redirect>
-  <newLocation>
-    https://podcast.pizzadedados.com/feed.xml
-  </newLocation>
-</redirect> 
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>{{ site.title }}</title>
+        <link>{{ site.url }}</link>
+        <language>{{ site.lang }}</language>
+        <itunes:author>{{ site.author.name }}</itunes:author>
+        <description>{{ site.author.bio }}</description>
+        <itunes:owner>
+            <itunes:name>{{ site.author.email }} ({{ site.title }})</itunes:name>
+            <itunes:email>{{ site.author.email }}</itunes:email>
+        </itunes:owner>
+        <itunes:image href="{{ site.image-url }}"/>
+        <itunes:category text="Education"/>
+        <itunes:category text="Science &amp; Medicine"/>
+        <itunes:category text="Technology"/>
+        <itunes:explicit>no</itunes:explicit>
+        <image>
+            <title>{{ site.title }}</title>
+            <link>{{ site.url }}</link>
+            <url>{{ site.image-url }}</url>
+        </image>
+        <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+        <copyright>Frase com direitos reservados do site</copyright>
+        <itunes:keywords>Ciência de Dados, Data Science, Pizza de Dados, dados, data, Data Science Pizza, Python, DS, Machine Learning</itunes:keywords>
+        <webMaster>pizzadedados@gmail.com (Pizza de Dados)</webMaster>
+        {% for post in site.posts %}
+        <item>
+          <author>{{ site.author.email }} ({{ site.title }})</author>
+          <title>{{ post.title | xml_escape }}</title>
+          <description>{{ post.description }}</description>
+          <guid>{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+          <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+          <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+          <itunes:duration>{{ post.duration }}</itunes:duration>
+          <itunes:keywords>{{ post.keywords }}</itunes:keywords>
+          <itunes:author>{{ site.author.name }}</itunes:author>
+          <itunes:explicit>NO</itunes:explicit>
+          <itunes:block>no</itunes:block>
+          <enclosure url="{{ post.mp3 }}" length="{{ post.length }}" type="audio/mpeg"/>
+        </item>
+        {% endfor %}
+    </channel>
+</rss>
