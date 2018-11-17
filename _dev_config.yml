@@ -45,9 +45,9 @@ lele_photo: "https://i.imgur.com/nXuylsx.jpg"
 jess_photo: "https://pbs.twimg.com/profile_images/950517230038548480/3LLLh6G5_400x400.jpg"
 gust_photo: "https://pbs.twimg.com/profile_images/927578792419356672/Xs18O64r_400x400.jpg"
 
-BASE_PATH: "http://pizzadedados.com"
-image-url: "http://pizzadedados.com/assets/media/avatar.large.png"
-url: "http://pizzadedados.com"
+BASE_PATH: "https://pizzadedados.com"
+image-url: "https://pizzadedados.com/assets/media/avatar.large.png"
+url: "https://pizzadedados.com"
 
 plugins:
   - jekyll-paginate
