@@ -34,8 +34,13 @@ layout: null
           <author>{{ site.author.email }} ({{ site.title }})</author>
           <title>{{ post.title | xml_escape }}</title>
           <description>{{ post.description }}</description>
+          {% if post.podbean_url %}
+          <guid>{{ post.podbean_url }}</guid>
+          <link>{{ post.podbean_url }}</link>
+          {% else %}
           <guid>{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
           <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+          {% endif %}
           <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
           <itunes:duration>{{ post.duration }}</itunes:duration>
           <itunes:keywords>{{ post.keywords }}</itunes:keywords>
