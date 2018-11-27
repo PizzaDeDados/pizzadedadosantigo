@@ -8,9 +8,11 @@ length: "93407253"
 keywords: "ciência de dados, data dcience, pizza de dados, dados, data, data science pizza, python, ds, machine learning, bootcamp, ensino, aprendizado"
 comments: true
 ---
+
 Todo mundo já fez ou viu um gráfico na vida, mas sabia que existe toda uma teoria por trás de como fazer um gráfico perfeito? Nós também não! Nesse episódio chamamos o Rodrigo Corbelli para contar mais sobre Data Storytelling e como aplicar isso no seu trabalho do dia a dia.
 
 ## Tópicos abordados neste episódio
+
 - Quem é e o que faz nosso convidado
 - O que é data storytelling
 - Compreendendo princípios básicos
@@ -24,6 +26,7 @@ Todo mundo já fez ou viu um gráfico na vida, mas sabia que existe toda uma teo
 </div>
 
 Ou baixe para escutar mais tarde:
+
 <div class="download">
   <a href="https://archive.org/download/episodio_004_era_uma_vez_dados/episodio_004_era_uma_vez_dados.mp3">
     <button class="btn btn-mp3">baixar .mp3</button>
@@ -70,7 +73,7 @@ Ou baixe para escutar mais tarde:
 </div>
 <div class="row">
   <div class="pizzaiolo-img">
-    <img class="img-circle" src="https://scontent.fcgh15-1.fna.fbcdn.net/v/t1.0-9/10614371_761731797217224_2906775786864518600_n.jpg?oh=64d3f0f516a8369a978c4bebb25cd5ba&oe=5B256DD2">
+    <img class="img-circle" src="https://i.imgur.com/FfYpGP5.jpg?1">
   </div>
   <div>
     <h3>Rodrigo Corbelli</h3>
@@ -107,7 +110,7 @@ Coisas que mencionamos durante esse episódio:
 
 ## Pérolas?! Temos algumas
 
-- É tipo um currículo mais pizza, sempre achei que as pessoas 
+- É tipo um currículo mais pizza, sempre achei que as pessoas
 - Tava indo tudo bem depois chega e mete um gorgonzola em cima
 - Nome bonito e grande
 - Meus gráficos tão três vezes mais feios
